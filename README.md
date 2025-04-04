@@ -1,6 +1,6 @@
 A Hacker/Programmer lost down a rabbit hole of knowledge, pentesting, or programming... 
 
-![Alt Text](https://media.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=790b7611cdjjipxxc6t53b6ewq7m6ta4a8606vcmho83sv3r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e470rerggo5vj7msrho6pq0zea7mkvicd48jma9s7r8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🚀 Areas of Interest:
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
