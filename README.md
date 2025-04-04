@@ -1,11 +1,14 @@
 A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming... 
 
+![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif?cid=ecf05e47u6m2cbua38ftapx3fl3i8nzrrh47yv168m5jiafo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ### 🚀 Areas of Interest:
-- 🌐 Software Application Security & Development
-- 🛡️ Red Team & Purple Team Operations
+- 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
+- 🛡️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs
 - 💻 Pentesting Tools Development (Golang, Zig, C, Python, JS)
 - 📡 Network Security and Endpoint Detection
+- 🤖 AI - SageMaker/Kaggle
 
 ### ⚙️ Tech 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
