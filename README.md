@@ -8,7 +8,7 @@ A Hacker/Programmer lost down a rabbit hole of knowledge, hacking, or programmin
 - 👾 Bug Bounties & CTFs
 - 💻 Pentesting Tools Development (Golang, Zig, C, Python, JS)
 - 📡 Network Security and Endpoint Detection
-- 🤖 AI - SageMaker/Kaggle
+- 🤖 AI - SageMaker/Kaggle/Cyber Data Set Collection
 
 ### ⚙️ Tech 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
