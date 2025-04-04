@@ -10,7 +10,7 @@ A Hacker/Programmer lost down a rabbit hole of knowledge, hacking, or programmin
 - 📡 Network Security
 - 🤖 AI - SageMaker/Kaggle/Cyber Data Set Collection
 
-### ⚙️ Tech 
+### ⚙️ Tech (these are not in order of 💙)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
