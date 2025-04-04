@@ -1,6 +1,6 @@
 A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming... 
 
-![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif?cid=ecf05e47u6m2cbua38ftapx3fl3i8nzrrh47yv168m5jiafo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e477i409db0sqfzr8599kdqxx7kpqdzsjikk2522lgx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🚀 Areas of Interest:
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
@@ -32,6 +32,9 @@ If you want to pull me out of my rabbit hole.
 
 [![Twitter](https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=x&logoColor=white)](https://x.com/WR4lTH_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/)
+
+![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif?cid=ecf05e47u6m2cbua38ftapx3fl3i8nzrrh47yv168m5jiafo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ### 📊 Stats
 
