@@ -1,6 +1,4 @@
-# 👋 Hey, I'm h3bzzz!
-
-A Hacker lost down a rabbita of knowledge, pentesting or programming... 
+A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming... 
 
 ### 🚀 Areas of Interest:
 - 🌐 Software Application Security & Development
