@@ -17,6 +17,7 @@ A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 ###🛡️ Governance, Risk & Compliance (GRC)
+
 ![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)
 ![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)
 ![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)
