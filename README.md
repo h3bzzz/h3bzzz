@@ -1,6 +1,7 @@
 A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming... 
 
-![Alt Text](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e4767qibrx676sbvmrozifg1fazi6cdu7z0zjyxi9vc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif)
+
 
 ### 🚀 Areas of Interest:
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
