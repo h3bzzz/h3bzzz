@@ -2,7 +2,7 @@ A Hacker/Programmer lost down a rabbit hole of knowledge, hacking, or programmin
 
 ![Alt Text](https://media.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=790b7611d7es3qjulpys01ve9e6iq8hxr5k6iurkqh5devvx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### 🚀 Areas of Interest:
+
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
 - 🛡️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs
