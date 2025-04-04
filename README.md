@@ -26,12 +26,19 @@ A Hacker/Programmer lost down a rabbita of knowledge, pentesting or programming.
 
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
+
 [![Twitter](https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=x&logoColor=white)](https://x.com/WR4lTH_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/)
 
 ### 📊 Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=h3bzzz&theme=radical&show_icons=true)
+
 ---
+
+
+
+
 
 _""I'm going to show them a world without you. A world without rules and controls, without borders or boundaries. A world where anything is possible.."_ Neo
 
