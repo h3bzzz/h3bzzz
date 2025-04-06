@@ -6,9 +6,9 @@ A Hacker/Programmer lost down a rabbit hole of knowledge, hacking, or programmin
 
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
-- 👾 Bug Bounties & CTFs
-- 💻 Pentesting Tools Development (Golang, Zig, C, Python, JS)
-- 📡 Network Security
+- 👾 Bug Bounties & CTFs 
+- 💻 Pentesting Tools Development (Golang, Zig)
+- 📡 Network Security 
 - 🤖 AI - SageMaker/Kaggle/Cyber Data Set Collection
 
 ### ⚙️ Tech 
