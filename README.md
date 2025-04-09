@@ -1,5 +1,5 @@
 Hey I'm Heeebzzz (h3bzzz)
-A Hacker/Programmer lost down a rabbit hole of knowledge, hacking, or programming... 
+A hacker and Developer lost down a rabbit hole of knowledge, hacking, or programming... 
 
 ![Alt Text](https://media.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=790b7611d7es3qjulpys01ve9e6iq8hxr5k6iurkqh5devvx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
