@@ -41,7 +41,7 @@ If you want to pull me out of my rabbit hole.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=h3bzzz&theme=radical&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=h3bzzz&theme=tokyonight&show_icons=true)
 
 ![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif)
 
