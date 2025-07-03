@@ -30,12 +30,12 @@ Hacker and Developer lost down a rabbit hole, doing either or both.
 
 
 ### 🛡️ Governance, Risk & Compliance (GRC)
-![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)
-https://www.hipaajournal.com/new-hipaa-regulations/
-![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)
-https://www.gdpradvisor.co.uk/gdpr-countries
-![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)
-https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf
+![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)\n
+https://www.hipaajournal.com/new-hipaa-regulations/\n
+![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)\n
+https://www.gdpradvisor.co.uk/gdpr-countries\n
+![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)\n
+https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf\n
 
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
