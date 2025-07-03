@@ -1,14 +1,14 @@
 Hey I'm Heeebzzz (h3bzzz)
-A hacker and Developer lost down a rabbit hole of knowledge, hacking, or programming... 
+Hacker and Developer lost down a rabbit hole, doing either or both. 
 
 ![Alt Text](https://media.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=790b7611d7es3qjulpys01ve9e6iq8hxr5k6iurkqh5devvx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
-- 🌐 Software Application Security & Development (Kubernetes, Helm, Docker)
+- 🌐 Software Application Security & Development (Kubernetes, Helm, Docker, Elastic, Splunk)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs 
-- 💻 Pentesting Tools Development (Golang, Zig)
-- 📡 Network Security 
+- 💻 Pentesting Tools Development (Python, Golang, Zig)
+- 📡 Network Security / Windows / Linux  
 - 🤖 AI - SageMaker/Kaggle/Cyber Data Set Collection
 
 ### ⚙️ Tech 
@@ -31,8 +31,11 @@ A hacker and Developer lost down a rabbit hole of knowledge, hacking, or program
 
 ### 🛡️ Governance, Risk & Compliance (GRC)
 ![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)
+https://www.hipaajournal.com/new-hipaa-regulations/
 ![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)
+https://www.gdpradvisor.co.uk/gdpr-countries
 ![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)
+https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf
 
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
