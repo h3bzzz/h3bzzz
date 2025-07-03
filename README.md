@@ -29,13 +29,13 @@ Hacker and Developer lost down a rabbit hole, doing either or both.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 
-### 🛡️ Governance, Risk & Compliance (GRC)
-![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)\n
-https://www.hipaajournal.com/new-hipaa-regulations/\n
-![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)\n
-https://www.gdpradvisor.co.uk/gdpr-countries\n
-![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)\n
-https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf\n
+### 🛡️ Governance, Risk & Compliance (GRC)<br>
+![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)<br>
+https://www.hipaajournal.com/new-hipaa-regulations/<br>
+![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)<br>
+https://www.gdpradvisor.co.uk/gdpr-countries<br>
+![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)<br>
+https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf<br>
 
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
