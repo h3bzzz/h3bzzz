@@ -13,7 +13,6 @@ Hacker and Developer lost down a rabbit hole, doing either or both.
 
 ### ⚙️ Tech 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3bzzz)](https://github.com/h3bzzz)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
