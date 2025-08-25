@@ -1,7 +1,6 @@
 Hey I'm Heeebzzz (h3bzzz)
-Hacker and Developer lost down a rabbit hole, doing either or both. 
+I enjoy finding out how things work and then trying to build them better, and then breaking them.
 
-![Alt Text](https://media.giphy.com/media/8gJ28HfjAkc9y/giphy.gif?cid=790b7611d7es3qjulpys01ve9e6iq8hxr5k6iurkqh5devvx&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 - 🌐 Software Application Security & Development (Kubernetes, Helm, Docker, Elastic, Splunk)
@@ -49,6 +48,8 @@ If you want to pull me out of my rabbit hole.
 ![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif)
 
 
+
+"Everything looks secure until you make the tiniest change" 
 _"I'm going to show them a world without you. A world without rules and controls, without borders or boundaries. A world where anything is possible."_ — Neo
 
 
