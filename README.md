@@ -3,12 +3,12 @@ I enjoy finding out how things work and then trying to build them better, and th
 
 
 
-- 🌐 Software Application Security & Development (Kubernetes, Helm, Docker, Elastic, Splunk)
+- 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Elastic, Splunk)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs 
-- 💻 Pentesting Tools Development (Python, Golang, Zig)
-- 📡 Network Security / Windows / Linux  
-- 🤖 AI - SageMaker/Kaggle/Cyber Data Set Collection
+- 💻 Pentesting Tools Development (Zig, Golang, Python)
+- 📡 Network Security / Linux Rules and Windows Drools
+- 🤖 AI - SageMaker/Kaggle/LangChain/HuggingFace Cyber Data Set Collection
 
 ### ⚙️ Tech 
 
