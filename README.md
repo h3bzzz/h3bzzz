@@ -29,21 +29,12 @@ I enjoy finding out how things work and then trying to build them better, and th
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 
-### 🛡️ Governance, Risk & Compliance (GRC)<br>
-![HIPAA Compliant](https://img.shields.io/badge/-HIPAA-blue)<br>
-https://www.hipaajournal.com/new-hipaa-regulations/<br>
-![GDPR Ready](https://img.shields.io/badge/-GDPR-informational)<br>
-https://www.gdpradvisor.co.uk/gdpr-countries<br>
-![GRC](https://img.shields.io/badge/-GRC-007396?style=flat&logo=security&logoColor=white)<br>
-https://learn.drata.com/hubfs/The_State_of_GRC_2025.pdf<br>
-
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
 
 [![Twitter](https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=x&logoColor=white)](https://x.com/WR4lTH_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/) <br> </br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h3bzzz)
 
 ![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif)
 
