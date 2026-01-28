@@ -1,7 +1,4 @@
-Hey I'm Heeebzzz (h3bzzz)
-I enjoy finding out how things work and then trying to build them better, and then breaking them.
-
-
+Hey I'm h3bzzz
 
 - 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Elastic, Splunk)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
