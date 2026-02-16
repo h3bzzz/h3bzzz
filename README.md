@@ -19,7 +19,10 @@ Hey I'm h3bzzz
 
 ### Tool Box
 ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
-
+![ghostty](https://img.shields.io/badge/Ghostty-3551F3.svg?style=for-the-badge&logo=Ghostty&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
+![Nvim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 
 
 
