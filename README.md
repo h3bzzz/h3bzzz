@@ -3,15 +3,13 @@ Hey I'm h3bzzz
 Application Security Engineer & Offensive Tool Builder
 I design secure systems and break insecure ones.
 
-- 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Building Tools is the best)
-- ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
+- 🌐 Software Application Security & Development
+- ⚔️ Red Team & Purple Team Operations
 - 👾 Bug Bounties & CTFs 
-- 💻 Pentesting Tools Development (Zig, Golang, Python)
-- 📡 Network Security /
+- 💻 Pentesting Tools Development
+- 📡 Web Security
 - 🐧 Linux Rules and Windows Drools
-- 🤖 AI - SageMaker/Kaggle/LangChain/HuggingFace Cyber Data Set Collection
 
-### ⚙️ Tech 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
@@ -28,14 +26,13 @@ I design secure systems and break insecure ones.
 ![Nvim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 
 
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
 
-### 📫 Connect with me:
-If you want to pull me out of my rabbit hole.
+
 
 [![Twitter](https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=x&logoColor=white)](https://x.com/WR4lTH_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/) <br> </br>
