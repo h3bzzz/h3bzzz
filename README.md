@@ -1,5 +1,8 @@
 Hey I'm h3bzzz
 
+Application Security Engineer & Offensive Tool Builder
+I design secure systems and break insecure ones.
+
 - 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Building Tools is the best)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs 
@@ -15,7 +18,7 @@ Hey I'm h3bzzz
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 
 
 ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
