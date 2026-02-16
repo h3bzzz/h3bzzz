@@ -48,7 +48,8 @@ I design secure systems and break insecure ones.
 <br></br>
 _"I'm going to show them a world without you. A world without rules and controls, without borders or boundaries. A world where anything is possible."_ — Neo
 
-<br></br> 
+<br>
+
 
 <p align="center">
   <i>𝓟𝓼𝓪𝓵𝓶 𝟗𝟏</i><br>
