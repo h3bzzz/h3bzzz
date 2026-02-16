@@ -1,30 +1,28 @@
 Hey I'm h3bzzz
 
-- 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Elastic, Splunk)
+- 🌐 Software Application Security & Development (Secure Server Design, HTTP3/HTTP2, Building Tools is the best)
 - ⚔️ Red Team & Purple Team Operations (EDR/IPS Advancement)
 - 👾 Bug Bounties & CTFs 
 - 💻 Pentesting Tools Development (Zig, Golang, Python)
-- 📡 Network Security / Linux Rules and Windows Drools
+- 📡 Network Security /
+- 🐧 Linux Rules and Windows Drools
 - 🤖 AI - SageMaker/Kaggle/LangChain/HuggingFace Cyber Data Set Collection
 
 ### ⚙️ Tech 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?logo=zig&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
 
 ### 📫 Connect with me:
 If you want to pull me out of my rabbit hole.
