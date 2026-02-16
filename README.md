@@ -26,25 +26,26 @@ I design secure systems and break insecure ones.
 ![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
 ![Nvim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
+<br></br>
 
 
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
+<br></br>
 
 
 
-[![Twitter](https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=x&logoColor=white)](https://x.com/WR4lTH_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heber-moreira-a2501119a/) <br> </br>
-
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/WR4lTH_)
+<br></br>
 
 ![Alt Text](https://media.giphy.com/media/hs7G6EaFFtICA9cHZz/giphy.gif)
 
 
-
-"Everything looks secure until you make the tiniest change" <br>
+<br></br>
 _"I'm going to show them a world without you. A world without rules and controls, without borders or boundaries. A world where anything is possible."_ — Neo
 
 
