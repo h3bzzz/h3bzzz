@@ -17,7 +17,7 @@ Hey I'm h3bzzz
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
-### Tool Box
+
 ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
 ![ghostty](https://img.shields.io/badge/Ghostty-3551F3.svg?style=for-the-badge&logo=Ghostty&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)
@@ -27,7 +27,7 @@ Hey I'm h3bzzz
 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
 
