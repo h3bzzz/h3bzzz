@@ -17,7 +17,7 @@ I design secure systems and break insecure ones.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![Clang](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 
 
 ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
@@ -36,6 +36,12 @@ I design secure systems and break insecure ones.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
+<br></br>
+
+![owasp](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
+![hackerone](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
+![intigriti](https://img.shields.io/badge/Intigriti-161A36.svg?style=for-the-badge&logo=Intigriti&logoColor=white)
+![bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822.svg?style=for-the-badge&logo=Bugcrowd&logoColor=white)
 <br></br>
 
 
