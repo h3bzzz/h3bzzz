@@ -1,8 +1,6 @@
 Hey I'm h3bzzz
 
-Application Security Engineer & Offensive Tool Builder
-I design secure systems and break insecure ones.
-
+A programmer who just likes to code.
 
 
 
