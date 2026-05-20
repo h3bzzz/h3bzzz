@@ -3,12 +3,7 @@ Hey I'm h3bzzz
 Application Security Engineer & Offensive Tool Builder
 I design secure systems and break insecure ones.
 
-- 🌐 Software Application Security & Development
-- ⚔️ Red Team & Purple Team Operations
-- 👾 Bug Bounties & CTFs 
-- 💻 Pentesting Tools Development
-- 📡 Web Security
-- 🐧 Linux Rules and Windows Drools
+
 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
@@ -38,11 +33,7 @@ I design secure systems and break insecure ones.
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white)
 <br></br>
 
-![owasp](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=OWASP&logoColor=white)
-![hackerone](https://img.shields.io/badge/HackerOne-494649.svg?style=for-the-badge&logo=HackerOne&logoColor=white)
-![intigriti](https://img.shields.io/badge/Intigriti-161A36.svg?style=for-the-badge&logo=Intigriti&logoColor=white)
-![bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822.svg?style=for-the-badge&logo=Bugcrowd&logoColor=white)
-<br></br>
+
 
 
 
