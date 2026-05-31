@@ -1,6 +1,5 @@
-Hey I'm h3bzzz
-
-A programmer who just likes to code.
+Hey I'm Heber Moreira
+Full-stack by trade, pentester by curiosity.
 
 
 
